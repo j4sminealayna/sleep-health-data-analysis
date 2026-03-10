@@ -3,6 +3,14 @@
 This project explores the relationship between lifestyle behaviors and sleep outcomes using the Sleep Health and Lifestyle dataset.
 
 The goal was to identify patterns in behavioral and physiological variables and build a predictive model for sleep quality.
+## Team Contributions
+
+This project was completed as part of a Data Mining and Analytics course at Florida State University.
+
+Team members:
+- Joshua Alcantara – Exploratory Data Analysis (EDA) and dataset preparation
+- Jasmine Saunders – Predictive modeling, model interpretation, and visualization
+- James Alba – Feature engineering and model evaluation
 
 ## Tools Used
 
